@@ -1,2 +1,3 @@
 "# bulkmail" 
-Python Project 
+# Python Project 
+To send bulk emails on single click
