@@ -4,7 +4,7 @@ To send bulk emails on single click
 This code will read data from an excel file and read the message from a HTML file and then sends the mail
 
 # To send the mail form your google account 
-You have to follow the following procedure: 
+You have to follow the following procedure: <br/>
 Step 1: Go to your google account dashboard
 Step 2: Go to "Security"
 Step 3: Under Security go to "Signing in to Google" 
