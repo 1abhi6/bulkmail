@@ -13,7 +13,8 @@ Step 6: Now follow this article's Option 2 section <br/>
 https://wpmailsmtp.com/gmail-less-secure-apps/
 
 Demo Photage:
-![image](https://user-images.githubusercontent.com/85806664/188194315-e66a42e7-8ba6-4f0d-b2a0-6b9dc3418a6b.png)
 
-![image](https://user-images.githubusercontent.com/85806664/188194300-3e5347aa-67da-4575-9fc9-6ad6281f6dd6.png)
+  ![image](https://user-images.githubusercontent.com/85806664/188194315-e66a42e7-8ba6-4f0d-b2a0-6b9dc3418a6b.png)
+
+  ![image](https://user-images.githubusercontent.com/85806664/188194300-3e5347aa-67da-4575-9fc9-6ad6281f6dd6.png)
 
