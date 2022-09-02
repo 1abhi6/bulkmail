@@ -92,11 +92,9 @@ def sendEmail():
 # Creating GUI
 window = Tk()
 window.geometry("500x350")
-
-# def sendingMsg():
-#     sendingMsg=Label(window, text="Sending...",
-#               font=('Arial 12')).place(x=60, y=190)
-#     return sendingMsg
+windowIcon = window.iconbitmap("icon.ico")
+# Setting icon of master window
+# window.iconphoto(False, windowIcon)
 
 # This function will get the  sender's email credentials from GUI
 def getEmailData():
