@@ -152,3 +152,4 @@ button_submit = Button(window, text="Send Email", font=('Arial 12'), padx=20, bg
     x=130, y=140
 )
 window.mainloop()
+ 
