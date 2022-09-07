@@ -14,8 +14,7 @@ https://wpmailsmtp.com/gmail-less-secure-apps/
 
 Demo Photage:
 
-  ![image](https://user-images.githubusercontent.com/85806664/188194630-354d4c8f-85a1-43bb-93df-766749d565b7.png)
-
-
-  ![image](https://user-images.githubusercontent.com/85806664/188194300-3e5347aa-67da-4575-9fc9-6ad6281f6dd6.png)
+  ![image](https://user-images.githubusercontent.com/85806664/188806197-bb853ac0-bf60-45c3-98f7-e405345abd9a.png)
+  
+  ![image](https://user-images.githubusercontent.com/85806664/188806267-0704a60c-1355-419c-b740-4ef57f771132.png)
 
